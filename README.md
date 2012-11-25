@@ -1,7 +1,8 @@
 Midix
 =====
 
-MIDI player using the "motherboard" speaker (controlled by the *i8254*/*82C54* timer), for Minix 3
+MIDI player using the "motherboard" speaker (controlled by the *i8254*/*82C54* timer), for Minix 3.
+
 Restricted to "single channel", monophonic MIDIs
 
 
