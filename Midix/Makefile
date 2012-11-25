@@ -3,7 +3,7 @@ COMPILER_TYPE= gnu
 CC=gcc
 
 PROG=	midix
-SRCS=	main.c speaker.c timer.c byebuffer.c
+SRCS=	main.c speaker.c timer.c bytebuffer.c
 
 CCFLAGS= -Wall
 
